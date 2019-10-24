@@ -6,7 +6,7 @@
   Destinations=""
   GlossaryTermConversion="marked"
   DefaultUrl="/Content/Home.htm"
-  ConditionTagExpression="exclude[Conditions.OnlineOnly or Conditions.PrintOnly]">
+  ConditionTagExpression="">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
