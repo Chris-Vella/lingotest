@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="in-progress">
   <file
     xml:space="preserve"
     original="San Diego.htm"
@@ -49,22 +49,22 @@
             mtype="seg"
             mid="1"
             MadCap:parentConditions="|Conditions.OnlineOnly">San Diego</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">big donuts</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-button"
         phase-name="pretrans"><source>custom target</source><seg-source><mrk
             mtype="seg"
             mid="1"
             MadCap:parentConditions="|Conditions.OnlineOnly">custom target</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">tarjey</mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-xml-p"
         phase-name="pretrans"><source>San Diego (Spanish for 'Saint Didacus') is a major city in California, United States. It is in San Diego County, on the coast of the Pacific Ocean in Southern California, approximately 120 miles (190 km) south of Los Angeles and immediately adjacent to the border with Mexico.</source><seg-source><mrk
@@ -80,8 +80,8 @@
           state="needs-translation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">when i was a boy, i ate lots of donuts</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
